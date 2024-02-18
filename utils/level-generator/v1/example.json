@@ -1,0 +1,36 @@
+{
+  "level": {
+    "dimension": "1D",
+    "rules": "color|symbol",
+    "layout": [
+      {
+        "type": "Poker",
+        "value": "1",
+        "symbol": "H",
+        "color": "red"
+      },
+      null,
+      null,
+      {
+        "type": "Poker",
+        "value": "7",
+        "symbol": "S",
+        "color": "black"
+      }
+    ]
+  },
+  "deck": [
+    {
+      "type": "Poker",
+      "value": "3",
+      "symbol": "D",
+      "color": "red"
+    },
+    {
+      "type": "Poker",
+      "value": "3",
+      "symbol": "C",
+      "color": "black"
+    }
+  ]
+}
