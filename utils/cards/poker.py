@@ -1,4 +1,4 @@
-from ..interfaces import AbstractCard
+from .abstract import AbstractCard
 from ..constants import Colors
 
 class PokerCardValues:

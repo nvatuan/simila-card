@@ -1,6 +1,6 @@
 {
   "level": {
-    "dimension": "1D",
+    "dimension": [4],
     "rules": "color|symbol",
     "layout": [
       {
